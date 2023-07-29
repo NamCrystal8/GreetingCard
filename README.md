@@ -1,4 +1,4 @@
 # GreetingCard
 Learning Android Studio
 
-a simple birthday card learing from https://developer.android.com/
+a simple birthday card learning from https://developer.android.com/
